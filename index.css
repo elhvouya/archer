@@ -1,0 +1,26 @@
+* {
+    font-family: 'Merriweather Sans';
+}
+
+.mainscreen {
+    display: flex;
+}
+
+.beach {
+    width: 50%;
+}
+
+.tagline {
+    font-size: 60px;
+    align-self: center;
+    font-weight: bold;
+}
+
+.two {
+    display: flex;
+    gap: 20px;
+}
+
+.one {
+    width: 50%;
+}
